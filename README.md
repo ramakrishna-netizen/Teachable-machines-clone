@@ -1,2 +1,2 @@
-#To run
-  Execute python server\app.py
+##To run
+Execute python server\app.py
